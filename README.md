@@ -1,4 +1,4 @@
-In this project ı used Supervised and Unsupervised Machine Learning  methods to find the 'Fraud' or 'Not Fraud' by using dataset. 
+# In this project ı used Supervised and Unsupervised Machine Learning  methods to find the 'Fraud' or 'Not Fraud' by using dataset. 
 
 # Supervised Learning:
 -Built with Logistic Regression
